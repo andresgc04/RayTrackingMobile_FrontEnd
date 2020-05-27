@@ -40,3 +40,7 @@ Xamarin.Essentials
 Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Rg.Plugins.Popup
+Lottie.Android
+Lottie.Forms
+Rg.Plugins.Popup.Droid
+XF.Material
