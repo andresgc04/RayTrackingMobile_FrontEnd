@@ -1,9 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "gaYVyWTYLJA3ypHf/25IvOWh3oTXM8r8VrYtEZdF5e7lEm9TfY2DP9+21Ben/K67+Xis52DVhVErWglDrQd2Kg==",
+=======
+  "dgSpecHash": "s6IlVWhhEe/+/Wi4hx71wE/T5BN8dVND+x0gtmSJ+hvUMWrOiOQJu4L2at+6nsN2ojU7oYIHvys/i/PqZ076Hw==",
+>>>>>>> origin
   "success": true,
-  "projectFilePath": "C:\\Users\\hugog\\Desktop\\RayTrackingMobile_FrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj",
+  "projectFilePath": "C:\\Users\\juan-concentra\\Desktop\\RayTrackingMobile_FrontEnd\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile\\RayTrackingMobile.csproj",
   "expectedPackageFiles": [
+<<<<<<< HEAD
     "C:\\Users\\hugog\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\3.0.3\\com.airbnb.xamarin.forms.lottie.3.0.3.nupkg.sha512",
     "C:\\Users\\hugog\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\hugog\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
@@ -12,6 +17,16 @@
     "C:\\Users\\hugog\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\hugog\\.nuget\\packages\\xamarin.forms\\4.6.0.800\\xamarin.forms.4.6.0.800.nupkg.sha512",
     "C:\\Users\\hugog\\.nuget\\packages\\xf.material\\1.5.8\\xf.material.1.5.8.nupkg.sha512"
+=======
+    "C:\\Users\\juan-concentra\\.nuget\\packages\\com.airbnb.xamarin.forms.lottie\\3.1.2\\com.airbnb.xamarin.forms.lottie.3.1.2.nupkg.sha512",
+    "C:\\Users\\juan-concentra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\juan-concentra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\juan-concentra\\.nuget\\packages\\rg.plugins.popup\\2.0.0.2\\rg.plugins.popup.2.0.0.2.nupkg.sha512",
+    "C:\\Users\\juan-concentra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\juan-concentra\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\juan-concentra\\.nuget\\packages\\xamarin.forms\\4.6.0.800\\xamarin.forms.4.6.0.800.nupkg.sha512",
+    "C:\\Users\\juan-concentra\\.nuget\\packages\\xf.material\\1.6.4\\xf.material.1.6.4.nupkg.sha512"
+>>>>>>> origin
   ],
   "logs": []
 }
